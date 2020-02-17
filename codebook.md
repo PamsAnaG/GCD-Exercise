@@ -19,3 +19,20 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 - 'test/X_test.txt': Test set.
 
 - 'test/y_test.txt': Test labels.
+
+To get more information about the files, use: `README.txt` included in the data set package
+
+
+## Steps to get the tidy data set
+
+1. Put the data sets in you working directory
+2. Load the data sets
+3. Merge the training and the test sets
+4. Add column name for subject files
+5. Add column names for measurement files
+6. Create measurements on the mean and standard
+7. Describe activity names
+8. Create a tidy data set (CSV) file
+
+
+
